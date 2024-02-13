@@ -1,0 +1,20 @@
+{
+    "title": "Sabot",
+    "vehicle_already_clamped": "La voiture est déjà sabotée.",
+    "vehicle_is_blacklisted": "Cette voiture est sur la liste noire.",
+    "clamping_in_progress": "Sabotage en cours...",
+    "clamping_cancelled": "Sabotage annulé.",
+    "clamping_removal_cancelled": "Retrait du sabot annulé.",
+    "not_enough_items": "Vous n'avez pas assez d'objets pour saboter ce véhicule.",
+    "clamping_finished": "Sabotage terminé.",
+    "clamping_notify_faction": "%s a saboté un véhicule avec la plaque d'immatriculation %s.",
+    "clamping_removal_notify_faction": "%s a retiré un sabot d'un véhicule avec la plaque d'immatriculation %s.",
+    "vehicle_cannot_be_driven": "Ce véhicule ne peut pas être conduit.",
+    "vehicle_not_clamped": "Ce véhicule n'est pas saboté.",
+    "clamping_removal_in_progress": "Retrait du sabot en cours...",
+    "clamping_removal_finished": "Retrait du sabot terminé.",
+    "clamping_welding_in_progress": "Soudage du sabot en cours...",
+    "clamping_welding_cancelled": "Soudage du sabot annulé.",
+    "clamping_welding_failed": "Soudage du sabot échoué.",
+    "clamping_welding_finished": "Soudage du sabot terminé."
+}

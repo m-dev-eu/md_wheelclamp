@@ -1,0 +1,20 @@
+{
+    "title": "Wheelclamp",
+    "vehicle_already_clamped": "The vehicle is already clamped.",
+    "vehicle_is_blacklisted": "This vehicle is blacklisted.",
+    "clamping_in_progress": "Clamping in progress...",
+    "clamping_cancelled": "Clamping cancelled.",
+    "clamping_removal_cancelled": "Clamping removal cancelled.",
+    "not_enough_items": "You don't have enough items to clamp a vehicle.",
+    "clamping_finished": "Clamping finished.",
+    "clamping_notify_faction": "%s has clamped a vehicle with the license plate %s.",
+    "clamping_removal_notify_faction": "%s has removed a clamp from a vehicle with the license plate %s.",
+    "vehicle_cannot_be_driven": "This vehicle cannot be driven.",
+    "vehicle_not_clamped": "This vehicle is not clamped.",
+    "clamping_removal_in_progress": "Removing clamp in progress...",
+    "clamping_removal_finished": "Clamping removal finished.",
+    "clamping_welding_in_progress": "Welding the wheelclamp in progress...",
+    "clamping_welding_cancelled": "Welding the wheelclamp cancelled.",
+    "clamping_welding_failed": "Welding the wheelclamp failed.",
+    "clamping_welding_finished": "Welding the wheelclamp finished."
+}

@@ -1,0 +1,20 @@
+{
+    "title": "Parkkralle",
+    "vehicle_already_clamped": "Das Fahrzeug hat bereits eine Parkkralle.",
+    "vehicle_is_blacklisted": "Dieses Fahrzeug kann keine Parkkralle erhalten.",
+    "clamping_in_progress": "Parkkralle wird angebracht...",
+    "clamping_cancelled": "Fahrzeugkrallung abgebrochen.",
+    "clamping_removal_cancelled": "Parkkralle wurde nicht abgemacht.",
+    "not_enough_items": "Du hast den benötigten Gegenstand nicht.",
+    "clamping_finished": "Parkkralle wurde angebracht.",
+    "clamping_notify_faction": "%s hat eine Parkkralle an dem Fahrzeug mit Kennzeichen %s angebracht.",
+    "clamping_removal_notify_faction": "%s hat eine Parkkralle vom Fahrzeug mit Kennzeichen %s entfernt.",
+    "vehicle_cannot_be_driven": "Fahrzeug ist gekrallt. Tel: 911 für Entfernung.",
+    "vehicle_not_clamped": "Das Fahrzeug ist nicht gekrallt.",
+    "clamping_removal_in_progress": "Parkkralle wird entfernt...",
+    "clamping_removal_finished": "Parkkralle wurde entfernt.",
+    "clamping_welding_in_progress": "Parkkralle wird geschweißt...",
+    "clamping_welding_cancelled": "Schweißen der Parkkralle abgebrochen.",
+    "clamping_welding_failed": "Die Parkkralle ist zu stark...  \nVersuche es nochmal.",
+    "clamping_welding_finished": "Parkkralle wurde geschweißt."
+}
