@@ -50,7 +50,7 @@ end
 
 ---@diagnostic disable-next-line: duplicate-set-field
 function server.setVehicleClampState(plate, state)
-    MySQL.execute.await('UPDATE `player_vehicles` SET `wheel_clamp` = ? WHERE `plate` = ?', { state, plate })
+    MySQL.update.await('UPDATE `player_vehicles` SET `wheel_clamp` = ? WHERE `plate` = ?', { state, plate })
 end
 
 MySQL.ready(function ()
