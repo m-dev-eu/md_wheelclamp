@@ -5,7 +5,7 @@ lua54 'yes'
 
 author 'm-dev.eu'
 description 'Wheelclamp'
-version '1.0'
+version '1.1'
 
 dependencies {
     'oxmysql',
