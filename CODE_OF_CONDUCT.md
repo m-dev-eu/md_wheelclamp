@@ -4,7 +4,6 @@ If you want to contribute you should watch the following adviers:
 
 General:
 - We want to provide high quality scripts.
-- Our scripts are **NOT** [Open Source](https://opensource.org/osd/).
 
 Concerning the code:
 - No lint errors are present.
